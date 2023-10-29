@@ -26,8 +26,12 @@ This is an outline for my Android project.
 
 5. Functionality:
    - To give YuGiOh players an app to look and build decks as well as studying other cards.
-
+     
 6. Design:
+
+
+
+
    ![Screenshot (57)](https://github.com/LuisOrtiz-Vega/Android-App-Outline/assets/149331420/1b834a52-e544-4dc2-9b3e-0ee95500d62d)
    ![Screenshot (58)](https://github.com/LuisOrtiz-Vega/Android-App-Outline/assets/149331420/92eedc66-5a3b-45cc-9bd3-b68306fd99c8)
    ![Screenshot (59)](https://github.com/LuisOrtiz-Vega/Android-App-Outline/assets/149331420/bf449d65-53b5-408c-9309-9cf2beb59cf9)
