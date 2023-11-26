@@ -36,3 +36,14 @@ This is an outline for my Android project.
    ![Screenshot (58)](https://github.com/LuisOrtiz-Vega/Android-App-Outline/assets/149331420/92eedc66-5a3b-45cc-9bd3-b68306fd99c8)
    ![Screenshot (59)](https://github.com/LuisOrtiz-Vega/Android-App-Outline/assets/149331420/bf449d65-53b5-408c-9309-9cf2beb59cf9)
 
+
+
+
+Project outline updates:
+MIT app inventor:
+1. Created the app directory UI's.
+2. Used an image for the background design.
+3. Created blocks to link the screens and to interact with buttons.
+
+Coding:
+1. Started to plan my code
