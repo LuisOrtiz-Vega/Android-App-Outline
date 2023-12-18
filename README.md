@@ -39,7 +39,7 @@ This is an outline for my Android project.
 
 
 
-Project outline updates:
+Project outline update part 1:
 MIT app inventor:
 1. Created the app directory UI's.
 2. Used an image for the background design.
@@ -47,3 +47,13 @@ MIT app inventor:
 
 Coding:
 1. Started to plan my code
+
+Project outline update part 2:
+MIT app inventor:
+1. Added more pages/screens.
+2. Linked more blocks to new pages/screens.
+3. Able to interact with deck creation.
+
+Coding:
+1. Created blocks that help interact with pages/screens.
+2. conistent rotation between pages/screens.
