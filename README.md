@@ -56,4 +56,4 @@ MIT app inventor:
 
 Coding:
 1. Created blocks that help interact with pages/screens.
-2. conistent rotation between pages/screens.
+2. Consistent rotation between pages/screens.
